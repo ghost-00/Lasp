@@ -1,0 +1,56 @@
+17:30:35,896 I: (ErlangCore.java:64) : Starting CORE Thread[Worker-1,5,main]
+17:30:35,902 I: (ErlangCore.java:79) : *** starting Erlide v0.33.0.201605251547 (core=0.24.13.201509181435) (model api=0.24.12.201509181435) *** (UTF-8) ui
+17:30:35,927 I: (ErlangCore.java:86) : Started CORE
+17:30:35,928 F: (ErlangPlugin.java:88) : Core started
+17:30:40,560 F: (ErlangHostnameRetriever.java:40) : Test long hostname: admins-MacBook-Pro.home
+17:30:41,626 W: (ErlangHostnameRetriever.java:46) : Can't use admins-MacBook-Pro.home as long name
+17:30:44,126 F: (ErlangHostnameRetriever.java:40) : Test long hostname: 192.168.1.8
+17:30:45,141 W: (ErlangHostnameRetriever.java:46) : Can't use 192.168.1.8 as long name
+17:30:45,531 F: (ErlangHostnameRetriever.java:40) : Test short hostname: admins-MacBook-Pro
+17:30:46,542 W: (ErlangHostnameRetriever.java:46) : Can't use admins-MacBook-Pro as short name
+17:30:46,873 F: (ErlangHostnameRetriever.java:40) : Test short hostname: admins-MacBook-Pro.local
+17:30:47,881 W: (ErlangHostnameRetriever.java:46) : Can't use admins-MacBook-Pro.local as short name
+17:30:47,883 F: (HostnameUtils.java:74) : Detected:: null && null
+17:30:47,916 F: (BackendActivator.java:25) : Backend plugin started
+17:30:47,924 I: (ErlideUIPlugin.java:132) : Starting UI Thread[Worker-1,5,main]
+17:30:47,928 F: (ModelActivator.java:19) : Starting Erlang model api
+17:30:47,987 F: (BackendFactory.java:42) : Create ide backend 19.3.0
+17:30:47,988 F: (BackendFactory.java:56) : Create backend 91644_admin_e2e41b_erlide
+17:30:48,142 F: (OtpNodeProxy.java:301) : Runtime 91644_admin_e2e41b_erlide@null starting
+17:30:48,143 F: (OtpNodeProxy.java:419) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 91644_admin_e2e41b_erlide@null, -setcookie, erlide] *** /Users/admin/Google-Drive/SINF21MS-2016-2017/Q2/distributed-system/Project2017/lasp
+17:30:48,211 F: (OtpNodeProxy.java:212) : 91644_admin_e2e41b_erlide@null: waiting connection to peer... 
+17:30:54,332 S: (OtpNodeProxy.java:216) : Could not connect to 91644_admin_e2e41b_erlide@null! Please check runtime settings.
+17:30:54,335 F: (OtpNodeProxy.java:301) : Runtime 91644_admin_e2e41b_erlide@null starting
+17:30:54,335 S: (OtpRpcProvider.java:20) : No Erlang runtime is installed! (Expected the service to be RUNNING, but the service has FAILED)
+17:30:54,335 F: (OtpNodeProxy.java:419) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 91644_admin_e2e41b_erlide@null, -setcookie, erlide] *** /Users/admin/Google-Drive/SINF21MS-2016-2017/Q2/distributed-system/Project2017/lasp
+17:30:54,335 F: (ModelActivator.java:30) : Started model api
+17:30:54,345 F: (OtpNodeProxy.java:212) : 91644_admin_e2e41b_erlide@null: waiting connection to peer... 
+17:30:54,357 I: (ErlideUIPlugin.java:154) : Started UI
+17:31:00,427 S: (OtpNodeProxy.java:216) : Could not connect to 91644_admin_e2e41b_erlide@null! Please check runtime settings.
+17:31:00,429 F: (OtpNodeProxy.java:301) : Runtime 91644_admin_e2e41b_erlide@null starting
+17:31:00,429 F: (OtpNodeProxy.java:419) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 91644_admin_e2e41b_erlide@null, -setcookie, erlide] *** /Users/admin/Google-Drive/SINF21MS-2016-2017/Q2/distributed-system/Project2017/lasp
+17:31:00,434 F: (OtpNodeProxy.java:212) : 91644_admin_e2e41b_erlide@null: waiting connection to peer... 
+17:31:06,499 S: (OtpNodeProxy.java:216) : Could not connect to 91644_admin_e2e41b_erlide@null! Please check runtime settings.
+17:31:06,502 F: (OtpNodeProxy.java:301) : Runtime 91644_admin_e2e41b_erlide@null starting
+17:31:06,502 F: (OtpNodeProxy.java:419) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 91644_admin_e2e41b_erlide@null, -setcookie, erlide] *** /Users/admin/Google-Drive/SINF21MS-2016-2017/Q2/distributed-system/Project2017/lasp
+17:31:06,508 F: (OtpNodeProxy.java:212) : 91644_admin_e2e41b_erlide@null: waiting connection to peer... 
+17:31:12,577 S: (OtpNodeProxy.java:216) : Could not connect to 91644_admin_e2e41b_erlide@null! Please check runtime settings.
+17:31:12,579 F: (OtpNodeProxy.java:301) : Runtime 91644_admin_e2e41b_erlide@null starting
+17:31:12,579 F: (OtpNodeProxy.java:419) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 91644_admin_e2e41b_erlide@null, -setcookie, erlide] *** /Users/admin/Google-Drive/SINF21MS-2016-2017/Q2/distributed-system/Project2017/lasp
+17:31:12,588 F: (OtpNodeProxy.java:212) : 91644_admin_e2e41b_erlide@null: waiting connection to peer... 
+17:31:18,656 S: (OtpNodeProxy.java:216) : Could not connect to 91644_admin_e2e41b_erlide@null! Please check runtime settings.
+17:31:18,659 F: (OtpNodeProxy.java:301) : Runtime 91644_admin_e2e41b_erlide@null starting
+17:31:18,659 F: (OtpNodeProxy.java:419) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 91644_admin_e2e41b_erlide@null, -setcookie, erlide] *** /Users/admin/Google-Drive/SINF21MS-2016-2017/Q2/distributed-system/Project2017/lasp
+17:31:18,670 F: (OtpNodeProxy.java:212) : 91644_admin_e2e41b_erlide@null: waiting connection to peer... 
+17:31:24,737 S: (OtpNodeProxy.java:216) : Could not connect to 91644_admin_e2e41b_erlide@null! Please check runtime settings.
+17:31:24,740 F: (OtpNodeProxy.java:301) : Runtime 91644_admin_e2e41b_erlide@null starting
+17:31:24,740 F: (OtpNodeProxy.java:419) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 91644_admin_e2e41b_erlide@null, -setcookie, erlide] *** /Users/admin/Google-Drive/SINF21MS-2016-2017/Q2/distributed-system/Project2017/lasp
+17:31:24,745 F: (OtpNodeProxy.java:212) : 91644_admin_e2e41b_erlide@null: waiting connection to peer... 
+17:31:31,274 S: (OtpNodeProxy.java:216) : Could not connect to 91644_admin_e2e41b_erlide@null! Please check runtime settings.
+17:31:31,279 F: (OtpNodeProxy.java:301) : Runtime 91644_admin_e2e41b_erlide@null starting
+17:31:31,279 F: (OtpNodeProxy.java:419) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 91644_admin_e2e41b_erlide@null, -setcookie, erlide] *** /Users/admin/Google-Drive/SINF21MS-2016-2017/Q2/distributed-system/Project2017/lasp
+17:31:31,289 F: (OtpNodeProxy.java:212) : 91644_admin_e2e41b_erlide@null: waiting connection to peer... 
+17:31:37,354 S: (OtpNodeProxy.java:216) : Could not connect to 91644_admin_e2e41b_erlide@null! Please check runtime settings.
+17:31:37,355 F: (OtpNodeProxy.java:301) : Runtime 91644_admin_e2e41b_erlide@null starting
+17:31:37,355 F: (OtpNodeProxy.java:419) : START node :> [/usr/local/lib/erlang/bin/erl, -sname, 91644_admin_e2e41b_erlide@null, -setcookie, erlide] *** /Users/admin/Google-Drive/SINF21MS-2016-2017/Q2/distributed-system/Project2017/lasp
+17:31:37,360 F: (OtpNodeProxy.java:212) : 91644_admin_e2e41b_erlide@null: waiting connection to peer... 

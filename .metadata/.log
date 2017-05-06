@@ -1,0 +1,16 @@
+!SESSION 2017-04-26 17:30:15.291 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product -keyring /Users/admin/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product -data /Users/admin/Google-Drive/SINF21MS-2016-2017/Q2/distributed-system/Project2017/lasp -product org.eclipse.epp.package.java.product -keyring /Users/admin/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2017-04-26 17:30:16.985
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.erlide.core 1 0 2017-04-26 17:30:35.859
+!MESSAGE Erlide log is in /Users/admin/Google-Drive/SINF21MS-2016-2017/Q2/distributed-system/Project2017/lasp
+
+!ENTRY org.erlide.core 1 0 2017-04-26 17:30:35.903
+!MESSAGE *** starting Erlide v0.33.0.201605251547 (core=0.24.13.201509181435) (model api=0.24.12.201509181435) *** (UTF-8) ui
